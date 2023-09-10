@@ -31,8 +31,9 @@ Before running the code, ensure you have the following prerequisites installed:
 
 2. Clone this repository to your local machine.
 
-   
-3. Run the provided Python script
+        https://github.com/varun14r/Number-Recognition.git
+      
+4. Run the provided Python script
 
          NumberRecognition.pynb
  in your preferred Python environment.
