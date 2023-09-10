@@ -33,10 +33,10 @@ Before running the code, ensure you have the following prerequisites installed:
 
         https://github.com/varun14r/Number-Recognition.git
       
-4. Run the provided Python script
+3. Run the provided Python script in your preferred Python environment.
 
          NumberRecognition.pynb
- in your preferred Python environment.
+ 
 4. The script will load the MNIST dataset, train a neural network, evaluate its accuracy, and display sample predictions.
 
 ## Conclusion
